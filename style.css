@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background: #ff0000;
+    font-family: Arial, sans-serif;
+  }
+  head {
+    background-color: #921414;
+  }
+  h1 {
+    background-color: beige;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  h2 {
+    background-color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
